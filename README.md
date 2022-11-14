@@ -1,6 +1,6 @@
 # My Reading Journal For Code Fellows
 
-![A picture of me Brennan Malone](https://github.com/brennan-malone/reading-notes/blob/7cc5ee17c8ed938af757827058b5fe139605c239/Main%20Profile%20Pic.jpg)
+![A picture of me Brennan Malone](https://github.com/brennan-malone/reading-notes/blob/46c06258c71439332c62427d4806793e8e64a064/main-profile-pic.jpg)
 <br>
 Hi my name's Brennan and I love learning! ❤️
 
