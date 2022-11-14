@@ -19,3 +19,5 @@ Three reminders to stay in a growth mindset:
 > It does not matter how slowly you go so long as you do not stop
 
 -Confucius
+
+[Class 1 Notes](class1.md)
