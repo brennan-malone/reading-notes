@@ -1,6 +1,6 @@
 # My Reading Journal For Code Fellows
 
-*Hi my name's Brennan and I love C++ *
+Hi my name's Brennan and I love C++
 
 Growth mindset means to me:
 
