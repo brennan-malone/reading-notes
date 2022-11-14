@@ -1,15 +1,21 @@
 # My Reading Journal For Code Fellows
 
-Hi my name's Brennan and I love C++
+![A picture of me Brennan Malone](https://github.com/brennan-malone/reading-notes/blob/7cc5ee17c8ed938af757827058b5fe139605c239/Main%20Profile%20Pic.jpg)
+<br>
+Hi my name's Brennan and I love learning! ❤️
 
-Growth mindset means to me:
+What does a Growth Mindset mean to me?  <br>
+Growth mindset is about learning! 📖  <br>
+It is about the belief that we can develop our skills further through hard work, good strategies, and input from others.
 
-Growth mindset is about learning as an individual.
+Three reminders to stay in a growth mindset:
 
-3 Reminders to stay in a growth mindset:
+1. __ALWAYS__ have a positive attitude, there will be roadblocks and failures.
+2. Do __NOT__ compare yourself to others. Everyone has a different journey.
+3. __ALWAYS__ Appreciate the progress that has been made. Appreciation will help foster a positive outlook!
 
-1. __Always__ have a positive attitude, there will be roadblocks and failures. That means I am learning.
-2. reminder 2
-3. reminder 3
+### Here's a link to my [GitHub Portfolio](github.com/brennan-malone) 
 
-Here's a link to my github portfolio github.com/brennan-malone
+> It does not matter how slowly you go so long as you do not stop
+
+-Confucius
