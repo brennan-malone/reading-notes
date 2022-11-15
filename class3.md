@@ -1,4 +1,7 @@
 # Read: 03 - Revisions and the Cloud
+This version control reading is critical to use working within the class  
+we will need to create and share files/repos not just to get graded, but also so we can work with teammates  
+
 * version control allows for tracking and rectifying changes
 * CVCS centralized version control system - sinlge server system storing all changes
 CVCS is a great way to streamline processes, by allowing developers to see eachothers work.
@@ -31,4 +34,17 @@ repositories so no single server and single point of failure
 
 ### Cloning
 * can clone repositories using the repos URL
-* 
+`git clone https://github.com/test`
+`git clone https://github.com/test mydirectory`
+
+### tracking files
+* you can check file status using `git status`
+* to track all files or a single file use `git add *` or `git add filename` respectively
+* commiting a file `git commit -m "made change x,y,z"`
+* commiting all changes `git commit -a`
+* pushing changes `git push origin master
+* `git stash` will temporarily remove changes and hit them then use `git stash apply` to get those changes again
+* auto assign "origin" to the server from which you cloned. "master" to local branch.
+
+## Things I want to know more about
+* Branching, I want to learn about using different branches to have different working projects at one time.
