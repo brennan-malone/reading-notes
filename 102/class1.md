@@ -67,5 +67,3 @@ github pages lets repositories be turned into a site
 ## Things I want to know more about
 
 - I want to learn more about using css to make our webpages not look so bland!
-
-[Back to Home](reading-notes/README.md)
