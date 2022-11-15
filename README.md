@@ -1,5 +1,7 @@
 # My Reading Journal For Code Fellows
 
+This website contains reading notes for each class
+
 ![A picture of me Brennan Malone](main-profile-pic.jpg)
 
 Hi my name's Brennan and I love learning! ❤️
