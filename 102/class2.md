@@ -35,5 +35,6 @@ for languages that have that option. An IDE is truly an all in one package for a
 * ls -a (list but with hidden files)
 
 ## Things I want to know more about
+
 I want to learn more about how to use git commands to push and pull repos from github using the terminal.  
 I know we will go over it. I am just excited for it.
