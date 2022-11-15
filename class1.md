@@ -1,6 +1,9 @@
-# Here are my notes about markdown:  
+# Here are my notes about markdown  
+
 This topic relates to what we have been studying because it is documentation github pages and markdown exactly what we have been using for lab 1.
+
 ## Markdown Basic Syntax  
+
 \# = heading  
 \= and \- can be used for alternate syntax  
 \# should have a space  
@@ -8,7 +11,8 @@ put a blank line before heading
   
 use blank line to make paragraph  
 don't use tabs in from of paragraph  
-<br> or hitting return after two spaces will create a second line  
+
+or hitting return after two spaces will create a second line  
 \_\_ or \*\* will make something bold  
 \_ or \* will italicize text  
 \*\*\* or \_\_\_ will do both
@@ -32,7 +36,7 @@ will make an ordered list don't use parantheses
 Unordered lists use a dash \-  
 
 encase words or phrases as code enclose it with backticks \`
-using double backticks will escape single backticks 
+using double backticks will escape single backticks
 
 horizontal rule use three or more \*, \-, \_
 
@@ -45,17 +49,21 @@ to include image use \!\[alt text\]\(address\)
 use \\ to escape characters
 
 ## Basic writing and syntax
+
 \~\~strikethrough\~\~ ~~example~~  
 \<sub\>word\<\/sub\> <sub>example</sub>  
 \<sup\>word\<\/sup\> <sup>example</sup>  
 Task lists are made using \- \[x\] something or \[ \]
+
 - [x] made a task list
 - [ ] finished bootcamp  
 
 \<\!\-\- will appear but \-\-\> <!-- this --> won't
 
 ## GitHub Pages
+
 github pages lets repositories be turned into a site
 
 ## Things I want to know more about
+
 - I want to learn more about using css to make our webpages not look so bland!
