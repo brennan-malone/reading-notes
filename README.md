@@ -20,4 +20,5 @@ Three reminders to stay in a growth mindset:
 
 -Confucius
 
-[Class 1 Notes](class1.md)
+[Class 1 Notes](class1.md)  
+[Class 2 Notes](class2.md)
