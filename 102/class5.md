@@ -73,5 +73,5 @@ three ways to insert CSS
 
 ## Things I want to know more about
 
-* how many reset stylesheets are there? 
+* how many reset stylesheets are there?
 * is there different ones for differnt applications of CSS?
