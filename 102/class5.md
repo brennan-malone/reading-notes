@@ -72,3 +72,6 @@ three ways to insert CSS
 * public domain and free to use
 
 ## Things I want to know more about
+
+* how many reset stylesheets are there? 
+* is there different ones for differnt applications of CSS?
