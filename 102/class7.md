@@ -93,7 +93,6 @@
 
 ## Functions Again
 
-
 [link to MDN JavaScript functions page](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
 
 * this link gives great examples of functions in use and their nature
