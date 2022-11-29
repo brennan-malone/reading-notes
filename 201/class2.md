@@ -54,7 +54,7 @@
 3. Describe a real world Problem you could solve with a Function.
    * functions can perform real world math solutions. Along with many other things. The great thing about functions is they are reusable
 
-## Making Decisions In Your Code – Conditionals.
+## Making Decisions In Your Code – Conditionals
 
 1. An if statement checks a __ and if it evaluates to ___, then the code block will execute.
    * condition, true
