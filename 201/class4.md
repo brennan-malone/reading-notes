@@ -36,7 +36,7 @@
    * argument are specified when the function is invoked ex. myFunc(someArgument)
    * a parameter is when the function is declared ex. function myFunc(parameter) <- beginning of the declaration
 
-## Piar Programming
+## Pair Programming
 
 1. Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey
    * Engaged collaboration had to be one of the major benefits for myself. As a very distracted person the engagement that comes from working with others will help me stay tuned into coding and making sure the code is correct.
