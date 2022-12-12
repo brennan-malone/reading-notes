@@ -7,7 +7,7 @@
 2. Describe the use of the src and controls attributes in the \<video> element.
    * src works the exact same as it does in the img element. Provides a path to the video to embed. 
    * There must be a way for the user to control the video and audio playback. This can be done with the control element.
-3. Why is it important to have fallback content inside the <video> element?
+3. Why is it important to have fallback content inside the \<video> element?
    * In case the browser accesing page does not support the video element. 
 4. Write a very short story where \<audio> and \<video> are characters.
    * "hey video I see you are new here. what did you get hired to do." -said audio "hey audio, unlike you I have a visual component and suppoort the width, height, and poster attributes." -said video.
