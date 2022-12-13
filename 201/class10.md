@@ -22,4 +22,4 @@
 
 ## Things I want to know more about
 
-The debugger console and its use in action. The console has already been so helpful I am excited to see how this can help. 
+The debugger console and its use in action. The console has already been so helpful I am excited to see how this can help.

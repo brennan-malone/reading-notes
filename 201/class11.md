@@ -11,7 +11,7 @@
    * In case the browser accesing page does not support the video element. 
 4. Write a very short story where \<audio> and \<video> are characters.
    * "hey video I see you are new here. what did you get hired to do." -said audio "hey audio, unlike you I have a visual component and suppoort the width, height, and poster attributes." -said video.
-	
+
 ## A Complete Guide to Grid
 
 1. How does Grid layout differ from Flex?
