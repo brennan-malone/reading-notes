@@ -23,4 +23,4 @@
 
 ## Things I want to learn more about
 
-* they mention AJAX in the article and how it can be better than JSON for accessing APIs I am very interested in what this means and how this impacts us as web developers.
+* I would like to implement more of these transitions and animations. I am excited to see these transitions in my site.
