@@ -34,3 +34,7 @@ Hi my name's Brennan and I love learning! ❤️ I joined code fellows because I
 * [Class 13 Notes](201/class13.md)
 * [Class 14 Notes](201/class14.md)
 * [Class 15 Notes](201/class15.md)
+
+### Code 301 Reading Notes
+
+* [Class 1 Notes](301/class1.md)
