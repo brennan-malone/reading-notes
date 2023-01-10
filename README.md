@@ -39,3 +39,4 @@ Hi my name's Brennan and I love learning! ❤️ I joined code fellows because I
 ### Code 301 Reading Notes
 
 * [Class 1 Notes](301/class1.md)
+* [Class 2 Notes](301/class2.md)
