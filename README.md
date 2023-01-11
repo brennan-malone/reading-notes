@@ -38,5 +38,18 @@ Hi my name's Brennan and I love learning! ❤️ I joined code fellows because I
 
 ### Code 301 Reading Notes
 
-* [Class 1 Notes](301/class1.md)
+* [Class 1 Notes](301/class1.md)  
 * [Class 2 Notes](301/class2.md)
+* [Class 3 Notes](301/class3.md)
+* [Class 4 Notes](301/class4.md)
+* [Class 5 Notes](301/class5.md)
+* [Class 6 Notes](301/class6.md)
+* [Class 7 Notes](301/class7.md)
+* [Class 8 Notes](301/class8.md)
+* [Class 9 Notes](301/class9.md)
+* [Class 10 Notes](301/class10.md)
+* [Class 11 Notes](301/class11.md)
+* [Class 12 Notes](301/class12.md)
+* [Class 13 Notes](301/class13.md)
+* [Class 14 Notes](301/class14.md)
+* [Class 15 Notes](301/class15.md)
