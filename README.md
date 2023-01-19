@@ -2,7 +2,7 @@
 
 This website contains reading notes for each class
 
-Hi my name's Brennan and I love learning! ❤️ I joined code fellows because I have fallen in love with building things. Especially build new and exciting tech! The following are my class notes.
+Hi my name's Brennan and I love learning! I joined code fellows because I have fallen in love with building things. Especially build new and exciting tech! The following are my class notes.
 
 ## Table of contents
 
