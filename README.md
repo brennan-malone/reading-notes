@@ -57,6 +57,7 @@ Hi my name's Brennan and I love learning! I joined code fellows because I have f
 ### Code 401 Reading Notes
 
 * [Growth Mindset](401/growth.md)
+* [Terminal Practice](401/term_parctice.md)
 * [Class 1 Notes](401/class1.md)  
 * [Class 2 Notes](401/class2.md)
 * [Class 3 Notes](401/class3.md)
